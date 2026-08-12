@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-kmqpm9.salamcuanwin.xyz/sitemap.xml
